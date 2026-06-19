@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 # Hey there 👋
 
-I'm **Eshaan**, a full-stack developer based in Hyderabad, India.
+I'm **Eshaan**, based in Hyderabad, India, with an interest in technology, finance, and economics.
 
 I enjoy building for the web and exploring the intersection of technology, finance, and economics. Lately, I've also been experimenting with AI, machine learning, and data analytics while trying to learn something new every day.
 
@@ -16,15 +16,6 @@ This is a fresh profile where I'll be uploading smaller projects, experiments, a
 * **Full Stack:** MongoDB, Express.js, React, Node.js (MERN)
 * **Databases:** MySQL, MongoDB
 * **Tools:** Git, GitHub, VS Code, Linux
-
----
-
-## Current Focus
-
-* Learning as much as I can about technology
-* Exploring AI, machine learning, and data analytics
-* Building projects that solve real problems
-* Improving as a full-stack developer
 
 ---
 
